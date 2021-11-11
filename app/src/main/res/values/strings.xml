@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">RecyclerViewHA_TMS</string>
-    <string name="actionShare">Share with Friends</string>
-    <string name="actionFavorites">Add to favorites</string>
+    <string name="actionShare">Share</string>
+    <string name="actionFavorites">Favorites</string>
     <string name="actionBookmark">Bookmark</string>
-    <string name="actionInfo">More Information</string>
+    <string name="actionInfo">More Info.</string>
 </resources>
