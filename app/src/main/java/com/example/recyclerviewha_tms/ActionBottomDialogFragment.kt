@@ -50,8 +50,4 @@ class ActionBottomDialogFragment :BottomSheetDialogFragment(), View.OnClickListe
         mListner!!.onItemClick(tvSeleced.text.toString())
         dismiss()
     }
-
-
-
-
 }

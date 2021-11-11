@@ -11,10 +11,13 @@
 
 
     <EditText
+        android:focusableInTouchMode="false"
+        android:focusable="false"
+        android:editable="false"
         android:id="@+id/editText"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:ems="10"
         android:inputType="textPersonName"
-        android:text="Нажми меня нежно" />
+        android:text="BottomSheld" />
 </LinearLayout>
